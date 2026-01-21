@@ -1,0 +1,42 @@
+body {
+  font-family: Georgia, serif;
+  background: #faf7f5;
+  color: #2e2e2e;
+  padding: 40px 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 40px;
+}
+
+.entry {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  background: white;
+  border-radius: 10px;
+  padding: 20px 24px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+}
+
+.date {
+  font-size: 13px;
+  color: #999;
+  margin-bottom: 14px;
+}
+
+.person {
+  margin-bottom: 12px;
+}
+
+.name {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
